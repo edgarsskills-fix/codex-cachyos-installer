@@ -1,0 +1,10 @@
+{
+  "package": "chatgpt",
+  "version": "26.1111.21308",
+  "architecture": "amd64",
+  "size": 567877422,
+  "sha256": "4b443bc557350a1b193bc2f1bae207c9ea3c9fb5d94f7c94a5d3dbaa8b552352",
+  "upstream": "https://developers.openai.com/codex/app",
+  "distribution": "CachyOS / Arch Linux x86_64",
+  "installer_version": "1.0.0"
+}
